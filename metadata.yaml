@@ -1,0 +1,29 @@
+_repo: Heart-Utterances-at-Various-Periods-of-a-Chequered-Life_25599
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gurney, Eliza Paul
+    alias: Gurney, Eliza Paul Kirkbride
+    birthdate: 1801
+    deathdate: 1881
+    gutenberg_agent_id: '31445'
+    url: http://www.gutenberg.org/2009/agents/31445
+description: ''
+gutenberg_issued: '2008-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Unpublished works'
+- !lcsh 'American poetry'
+- !lcsh 'Society of Friends -- Poetry'
+title: Heart Utterances at Various Periods of a Chequered Life
+url: http://www.gutenberg.org/ebooks/25599
